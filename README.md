@@ -26,3 +26,6 @@
 
 * Exemplo de código de criação de produto: ```go run main.go cli -a=create -n="Product CLI" -p=50.0```
 * Exemplo de get: ```go run main.go cli -a=get -i=52660bf4-312c-47d3-bbd3-905328d593d7```
+
+# Usando cobra para WebServer
+* Executar o comando: ```cobra-cli add http```
